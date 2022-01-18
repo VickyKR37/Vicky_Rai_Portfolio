@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+  "name": "Vicky Rai Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "scripts": {
+    "deploy": "gh-pages -d <yourdirectoryname>"
+    },
+  "keywords": [],
+  "author": "Vicky Rai",
+  "license": "ISC",
+  "homepage": "https://VickyKR37.github.io/<Vicky_Rai_Portfolio>",
+  "dependencies": {
+  "gh-pages": "^3.1.0"
+    }
+}
